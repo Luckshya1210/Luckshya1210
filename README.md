@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Luckshya1210/Luckshya1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi, I’m Luckshya Garg
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 Interested in building new things and technologies.
+
+🌱 I’m currently learning data structures and algorithms with keen interest in open source,development and cloud.
+
+💞️ I’m looking to collaborate and explore more in Web3 space.
+
+📫 Feel free to reach me at luckshya1210@gmail.com
+
+✨ I like to explore more,network and read books
+
